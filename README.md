@@ -55,7 +55,7 @@ platform.
 
 - [x] Public repo created (Oct 27) — github.com/SaintSinC/pocket-muse
 - [x] First Meta Model API call (Muse Spark) from the Brain
-- [ ] First Muse Spark Open call via Baseten
+- [x] First Muse Spark Open call via Baseten
 - [ ] Skill 1 end-to-end: ask by voice → answer spoken → card/picture
 on the round screen
 - [ ] Demo video
