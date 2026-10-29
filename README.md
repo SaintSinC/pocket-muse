@@ -58,7 +58,7 @@ platform.
 - [x] First Muse Spark Open call via Baseten
 - [x] Skill 1 end-to-end: ask by voice → answer spoken → card/picture
 on the round screen
-- [x] Demo video - filmed Oct 28 (intro + weather, Brain run, Baseten lane, outdoor puffin); editing next
+- [x] Demo video - final cut exported Oct 29 (intro, Brain run, Baseten lane, outdoor puffin)
 - [ ] Submission via Cerebral Valley (due Nov 4, 6:00 PM PT)
 
 ## Credits
