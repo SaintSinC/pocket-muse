@@ -1,5 +1,10 @@
 # Pocket Muse
 
+**▶ Watch the 2-minute demo:** https://youtu.be/MRb7OAK5X2s
+
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/e6dfa20f-4ff3-41ba-aad9-8518eef67dd6" />
+
+
 **Pocket Muse is a pocket-sized voice companion that brings Muse Spark
 off the screen and into your hand — talk to it, and it answers out
 loud and shows pictures and cards on its round display.**
